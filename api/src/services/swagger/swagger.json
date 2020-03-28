@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "description": "<b>API</b><br><br><a href=\"./files/database.svg\" target=\"_blank\">Modelo de dados</a><br><br><a href=\"./files/coverage/\" target=\"_blank\">Jest Coverage Report</a><br><br>",
+        "description": "<b>API</b><br><br><a href=\"./files/logcentral.pdf\" target=\"_blank\">Resumo do projeto</a><br><br><a href=\"./files/coverage/\" target=\"_blank\">Jest Coverage Report</a><br><br>",
         "version": "0.0.1",
         "title": "Log Central",
         "contact": {
